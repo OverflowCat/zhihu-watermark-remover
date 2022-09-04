@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         Zhihu Watermark Faker
+// @name         假的知乎盲水印
 // @namespace    http://overflow.cat/
-// @version      0.1
-// @description  Remove blind watermarks from Zhihu webpages
+// @version      0.1.1
+// @description  把知乎网页版的水印改成假的
 // @author       OverflowCat
 // @match        https://www.zhihu.com/*
 // @license      WTFPL

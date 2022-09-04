@@ -1,6 +1,12 @@
 h1. Zhihu Watermark Remover
 
-!http://telegra.ph/file/d4799aa018801db3ff098.png(Example of a webpage full of watermarks)!
+Here is an example of the watermarks:
+
+<p align="center"><img src="http://telegra.ph/file/d4799aa018801db3ff098.png" height="600px" alt="Example of a webpage full of watermarks"></p>
+
+Using "@userscript.js@":https://github.com/OverflowCat/zhihu-watermark-remover/blob/neko/userscript.js, the watermarks will be removed; Using "@fake.js@":https://github.com/OverflowCat/zhihu-watermark-remover/blob/neko/fake.js, the watermarks will be faked:
+
+<p align="center"><img src="http://telegra.ph/file/ccb454212a36c7c671afe.png" height="600px" alt="Example of faked watermarks"></p>
 
 h2. Install
 

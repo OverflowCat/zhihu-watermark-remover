@@ -1,10 +1,18 @@
 // ==UserScript==
-// @name         假的知乎盲水印
+// @name         Zhihu Watermark Faker
+// @name:zh-CN   假的知乎盲水印
+// @name:zh-TW   假的知乎盲水印
 // @namespace    http://overflow.cat/
-// @version      0.1.1
-// @description  把知乎网页版的水印改成假的
+// @homepage:    https://greasyfork.org/zh-CN/scripts/450732
+// @version      0.2
+// @description  Change watermarks on Zhihu to fake ones
+// @description:zh-CN  把知乎网页版的水印改成假的
+// @description:zh-TW  把知乎 Web 版的水印改成假的
 // @author       OverflowCat
-// @match        https://www.zhihu.com/*
+// @match        https://*.zhihu.com/*
+// @match        http://*.zhihu.com/*
+// @match        https://zhihu.com/*
+// @match        http://zhihu.com/*
 // @license      WTFPL
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=zhihu.com
 // @grant        none

@@ -1,0 +1,11 @@
+h1. Zhihu Watermark Remover
+
+!http://telegra.ph/file/d4799aa018801db3ff098.png(Example of a webpage full of watermarks)!
+
+h2. Install
+
+*"GreasyFork":https://greasyfork.org/zh-CN/scripts/450717-zhihu-watermark-remover*
+
+h2. Disclaimer
+
+It is not guaranteed that this userscript will always work. Please use with caution.
